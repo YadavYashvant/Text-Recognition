@@ -1,2 +1,2 @@
 # Text-Recognition
-Making Jetpack-compose app with Text-Recognition ML kit.
+Making Jetpack-compose app with Text-Recognition ML kit.(Under Developement)
