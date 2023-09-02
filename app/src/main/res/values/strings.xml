@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Text-Recognition</string>
+    <string name="dummy_txt">This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+        This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.
+    This is a text excerpt found from the text recognised by ml tool in the image selected above.</string>
 </resources>
